@@ -1,37 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Ivan",
-    "surname": "Horvat",
-    "telephone": "098-1234-567",
-    "email": "ivan.horvat@gmail.com"
+    "title": "Post 1"
   },
   {
     "id": 2,
-    "name": "Ivan2",
-    "surname": "Horvat2",
-    "telephone": "098-1234-567",
-    "email": "ivan.horvat@gmail.com"
+    "title": "Post 2"
   },
   {
     "id": 3,
-    "name": "Ivan3",
-    "surname": "Horvat2",
-    "telephone": "098-1234-567",
-    "email": "ivan.horvat@gmail.com"
-  },
-  {
-    "id": 4,
-    "name": "Ivan4",
-    "surname": "Horvat2",
-    "telephone": "098-1234-567",
-    "email": "ivan.horvat@gmail.com"
-  },
-  {
-    "id": 5,
-    "name": "Ivan5",
-    "surname": "Horvat2",
-    "telephone": "098-1234-567",
-    "email": "ivan.horvat@gmail.com"
+    "title": "Post 3"
   }
 ]

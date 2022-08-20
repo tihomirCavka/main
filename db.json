@@ -1,20 +1,46 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        },
-        {
-            "id": 4,
-            "title": "Post 4"
-        }
-    ]
+    [
+    {
+        "id": "1",
+        "group": "Deutsche Post Group",
+        "entity": "Asd",
+        "account": "DHL Global Forwarding",
+        "number": 0
+    },
+    {
+        "id": "2",
+        "group": "qwdqwqqdqd",
+        "entity": "Bcd",
+        "account": "DHL Global Forwarding",
+        "number": 6
+    },
+    {
+        "id": "3",
+        "group": "erhrhehehe Post Group",
+        "entity": "Vvv",
+        "account": "DHL Global Forwarding",
+        "number": 123
+    },
+    {
+        "id": "4",
+        "group": "Deutsche Post Group",
+        "entity": "Logistik",
+        "account": "DHL Global Forwarding",
+        "number": 123123
+    },
+    {
+        "id": "5",
+        "group": "Deutsche Post Group",
+        "entity": "Logistik",
+        "account": "DHL Global Forwarding",
+        "number": 2
+    },
+    {
+        "id": "6",
+        "group": "Deutsche Post Group",
+        "entity": "Logistik",
+        "account": "DHL Global Forwarding",
+        "number": 3
+    }
+]
 }

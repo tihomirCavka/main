@@ -1,17 +1,25 @@
 {
-    "user": {
-        "id": "0f12f3a2-fc58-11ec-8def-00155dfba5c8",
-        "email": "tihomir.cavka1@gmail.com",
-        "userStatus": "active",
-        "secondFactorDeliveryAddress": {
-            "name": "Tihomir",
-            "name2": "Čavka",
-            "address": "Mirosevecki Brijeg 29",
-            "address2": "",
-            "city": "Zagreb",
-            "contryCode": "hr",
-            "regionCode": "hr"
+    "cards": [
+    {
+        "id": "4e1b31d7-b8e2-4899-b958-d77ac0e94edb",
+        "customerNumber": "N1 - 995042 or CT01554456. Navision field 1",
+        "cardNumber": "7078421001234567890",
+        "cardLimit": {
+            "fuelingDailyLimit": 50000,
+            "fuelingWeeklyLimit": 150000,
+            "fuelingMonthlyLimit": 45000,
+            "tollingDailyLimit": 50000,
+            "tollingWeeklyLimit": 150000,
+            "tollingMonthlyLimit": 500000
         },
-        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8"
-    }
+        "validUntil": "2021-04-17",
+        "status": "ACTIVE",
+        "lpn": "NEA - GM 094",
+        "cardVariant": "Shell",
+        "driverName": "Test Driver Name",
+        "vehicleType": "LKW",
+        "customerName": "Company Name",
+        "restrictionCode": "01",
+        "restrictionLevel": "Restriction level"
+    }]
 }

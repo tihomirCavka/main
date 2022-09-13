@@ -1,4 +1,166 @@
 {
+    "companies": [
+    {
+        "id": "bd910c44-d98a-4eaa-a5b5-25ec9082d64d",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 407",
+        "companyName": "Capsule corp.",
+        "customerFrom": "2004-08-19",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "West City 84",
+            "city": "West City",
+            "countryCode": "de",
+            "regionCode": "de",
+            "phoneNumber": "+000 123 456 789",
+            "email": "test-cc@test.com"
+        }
+    },
+    {
+        "id": "e04e00f2-6f18-419a-8f2b-266bf2b14b47",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 408",
+        "companyName": "Kaiba corp.",
+        "customerFrom": "2014-03-06",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "Domino City 96",
+            "city": "Domino City",
+            "countryCode": "de",
+            "regionCode": "de",
+            "phoneNumber": "+000 123 456 790",
+            "email": "test-kc@test.com"
+        }
+    },
+    {
+        "id": "f1ffb9d2-6ce3-4897-af5a-052155f592fe",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 409",
+        "companyName": "Kaminarimon Company",
+        "customerFrom": "2016-04-24",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "Hidden Street 12",
+            "city": "Leaf City",
+            "countryCode": "en",
+            "regionCode": "en",
+            "phoneNumber": "+000 123 456 791",
+            "email": "test-kc2@test.com"
+        }
+    },
+    {
+        "id": "5b61c297-a8dc-4ece-97ee-03b4625e789e",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 410",
+        "companyName": "Umbrella corp.",
+        "customerFrom": "2018-01-25",
+        "isVerified": false,
+        "contactInformation": {
+            "address": "Liberty Street 43",
+            "city": "Racoon City",
+            "countryCode": "en",
+            "regionCode": "en",
+            "phoneNumber": "+000 123 456 792",
+            "email": "test-uc@test.com"
+        }
+    },
+    {
+        "id": "bbdb657e-0b14-48c4-87fc-57a8f15913d5",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 411",
+        "companyName": "Acme corp.",
+        "customerFrom": "2017-05-30",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "Tiny Toon street 9",
+            "city": "Looney Toon",
+            "countryCode": "en",
+            "regionCode": "en",
+            "phoneNumber": "+000 123 456 793",
+            "email": "test-ac@test.com"
+        }
+    },
+    {
+        "id": "2ef6613a-01d3-493d-a41c-1792f2982681",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 412",
+        "companyName": "Monesters,Inc.",
+        "customerFrom": "2013-08-10",
+        "isVerified": false,
+        "contactInformation": {
+            "address": "Scary street 13",
+            "city": "Monstropolis",
+            "countryCode": "de",
+            "regionCode": "de",
+            "phoneNumber": "+000 123 456 794",
+            "email": "test-m@test.com"
+        }
+    },
+    {
+        "id": "1dd8d524-7400-484b-bbd3-0e499c1261bf",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 413",
+        "companyName": "Globex",
+        "customerFrom": "2020-04-07",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "Street 44",
+            "city": "Springfield",
+            "countryCode": "en",
+            "regionCode": "en",
+            "phoneNumber": "+000 123 456 795",
+            "email": "test-gl@test.com"
+        }
+    },
+    {
+        "id": "a8e9bd06-c8d6-48ae-82dd-6aa862111700",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 414",
+        "companyName": "Gringotts",
+        "customerFrom": "2018-12-12",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "Diagon Alley 0",
+            "city": "London",
+            "countryCode": "en",
+            "regionCode": "en",
+            "phoneNumber": "+000 123 456 796",
+            "email": "test-gg@test.com"
+        }
+    },
+    {
+        "id": "804f7943-b227-4cc4-95bf-e6c6cc1bd699",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 415",
+        "companyName": "Pied piper",
+        "customerFrom": "2019-11-02",
+        "isVerified": true,
+        "contactInformation": {
+            "address": "Algorithm 79",
+            "city": "Silicon Valley",
+            "countryCode": "de",
+            "regionCode": "de",
+            "phoneNumber": "+000 123 456 797",
+            "email": "test-pp@test.com"
+        }
+    },
+    {
+        "id": "1f0d8e68-d549-4ecf-b76a-730f6600d97e",
+        "groupIdentifier": "747f26c0-fc58-11ec-bb0e-00155dfba5c8",
+        "customerNumber": "0458 959 416",
+        "companyName": "Optimus prime solutions",
+        "customerFrom": "2021-03-24",
+        "isVerified": false,
+        "contactInformation": {
+            "address": "Autobot street 21",
+            "city": "Mission City",
+            "countryCode": "en",
+            "regionCode": "en",
+            "phoneNumber": "+000 123 456 798",
+            "email": "test-ops@test.com"
+        }
+    }
+],
     "cards": [
     {
         "id": "4e1b31d7-b8e2-4899-b958-d77ac0e94edb",
